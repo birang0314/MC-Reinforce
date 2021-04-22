@@ -7,4 +7,4 @@
 * Unit test
 * Travis CI
 ## Original SRC
-[![Build](https://github.com/monun/tap-sample-plugin)]
+[![Original](https://github.com/monun/tap-sample-plugin)]
